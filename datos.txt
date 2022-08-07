@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "title": "Se presume inocente",
+      "author": "Scott Turrow",
+      "genre": "Suspenso",
+      "year": "1987",
+      "cost": "1500",
+      "price": "2500"
+    },
+    {
+      "id": 2,
+      "title": "Rebelion en la granja",
+      "author": "George Orwell",
+      "genre": "Novela",
+      "year": "1945",
+      "cost": "2000",
+      "price": "3000"
+    },
+    {
+      "id": 3,
+      "title": "El fantasma de Canterville",
+      "author": "Oscar Wilde",
+      "genre": "Novela",
+      "year": "1887",
+      "cost": "1000",
+      "price": "1500"
+    },
+    {
+        "id": 4,
+        "title": "Tres ratones ciegos",
+        "author": "Agatha Christie",
+        "genre": "Novela",
+        "year": "1950",
+        "cost": "900",
+        "price": "1400" 
+    },
+    {
+        "id": 5,
+        "title": "La ciudad de las bestias",
+        "author": "Isabel Allende",
+        "genre": "Novela",
+        "year": "2003",
+        "cost": "2900",
+        "price": "4400" 
+    }
+  ]
