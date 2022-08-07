@@ -12,5 +12,5 @@ function cargar(title, author, genre, year, cost, price) {
 function write(librosLiteral) {
     fs.writeFileSync('./libros.json', JSON.stringify(librosLiteral, null, 2))
 }
-
+//No se como hacer para convalidar que los id no se repitan
 module.exports = { cargar, write }
