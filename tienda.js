@@ -3,6 +3,7 @@ const leer = require('./comandos/leer.js')
 const editar = require('./comandos/editar.js')
 const borrar = require('./comandos/borrar.js')
 
+// Faltaría la opción default en el switch considerando el caso de que no se pase ningún comando o algún comando inválido.
 switch (process.argv[2]) {
     case "new":
         cargar.cargar(process.argv[3], process.argv[4], process.argv[5], process.argv[6], process.argv[7], process.argv[8])
